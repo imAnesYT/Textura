@@ -1,7 +1,7 @@
 <h1 align="center">Textura</h1>
 
 <p align="center">
- **Textura** is a Python package for terminal text styling, similar to **colorama**, but with more features and flexibility. With Textura, you can easily add foreground colors, background colors, and text styles (bold, italic, underline) to your terminal output.
+ Textura is a Python package for terminal text styling, similar to colorama, but with more features and flexibility. With Textura, you can easily add foreground colors, background colors, and text styles (bold, italic, underline) to your terminal output.
 </p>
 
 <p align="center">

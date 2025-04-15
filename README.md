@@ -51,7 +51,7 @@ txtra_print("{Style.ITALIC}Italic text")
 txtra_print("{Back.RED}{Fore.WHITE}{Style.BOLD}Bold white on red background")
 
 # Using txtra_format to return a styled string
-formatted = txtra_format("{Fore.LIGHTBLUE}{Style.UNDERLINE}Underlined Light Blue")
+formatted = txtra_format("{Fore.YELLOW}{Style.UNDERLINE}Underlined Light Blue")
 print(formatted)  # This works fine
 
 # Incorrect usage: styled text directly with print() — will raise PrintError if strict=True

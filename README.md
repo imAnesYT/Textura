@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="neon-t.jpeg" alt="Neon T" width="200"/>
+</div>
 <h1 align="center">Textura</h1>
 
 <p align="center">

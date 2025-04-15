@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://pypi.org/project/textura/"><img src="https://badge.fury.io/py/textura.svg" alt="PyPI version"></a>
-  <a href="https://github.com/imAnesYT/easydb/blob/main/LICENSE"><img src="https://img.shields.io/github/license/imAnesYT/Textura-Lib" alt="License"></a>
-  <a href="https://pepy.tech/project/textura"><img src="https://pepy.tech/badge/textura" alt="Downloads"></a>
+  <a href="https://github.com/imAnesYT/textura/blob/main/LICENSE"><img src="https://img.shields.io/github/license/imAnesYT/textura" alt="License"></a>
+  <a href="https://img.shields.io/badge/downloads-100%2B-brightgreen"><img src="https://img.shields.io/badge/downloads-100%2B-brightgreen" alt="Downloads"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.6%2B-blue.svg" alt="Python"></a>
 </p>
 
@@ -21,7 +21,8 @@ Install Textura from PyPI:
 pip install textura
 ```
 
-## 🔧 Usage
+## ⚙️ Usage
+
 ```python
 import textura
 from textura import Fore, Back, Style, txtra_print, txtra_format, option, colors_list, PrintError
@@ -53,7 +54,7 @@ txtra_print("{Back.RED}{Fore.WHITE}{Style.BOLD}Bold white on red background")
 formatted = txtra_format("{Fore.LIGHTBLUE}{Style.UNDERLINE}Underlined Light Blue")
 print(formatted)  # This works fine
 
-# Incorrect usage: using styled text directly with print (strict=True will raise PrintError)
+# Incorrect usage: styled text directly with print() — will raise PrintError if strict=True
 try:
     print("{Fore.RED}This should raise an error if strict=True")
 except PrintError as e:

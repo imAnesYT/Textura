@@ -5,9 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://pypi.org/project/textura/"><img src="https://badge.fury.io/py/textura.svg" alt="PyPI version"></a>
+  <a href="https://pypi.org/project/textura/">
+    <img src="https://img.shields.io/badge/PyPI-1.1.0-blue.svg" alt="PyPI version">
+  </a>
   <a href="https://github.com/imAnesYT/Textura/blob/main/LICENSE"><img src="https://img.shields.io/github/license/imAnesYT/Textura" alt="License"></a>
-  <a href="https://pepy.tech/project/textura"><img src="https://pepy.tech/badge/textura" alt="Downloads"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.6%2B-blue.svg" alt="Python"></a>
 </p>
 

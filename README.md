@@ -7,7 +7,9 @@
 <p align="center">
   <a href="https://pypi.org/project/textura/"><img src="https://badge.fury.io/py/textura.svg" alt="PyPI version"></a>
   <a href="https://github.com/imAnesYT/textura/blob/main/LICENSE"><img src="https://img.shields.io/github/license/imAnesYT/textura" alt="License"></a>
-  <a href="https://img.shields.io/badge/downloads-100%2B-brightgreen"><img src="https://img.shields.io/badge/downloads-100%2B-brightgreen" alt="Downloads"></a>
+  <a href="https://pepy.tech/project/textura">
+  <img src="https://static.pepy.tech/badge/textura" alt="Downloads">
+</a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.6%2B-blue.svg" alt="Python"></a>
 </p>
 

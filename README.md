@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="neon-t.jpeg" alt="Neon T" width="200"/>
+  <img src="neon-t.jpeg" alt="Neon T" width="400"/>
 </div>
 <h1 align="center">Textura</h1>
 

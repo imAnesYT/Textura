@@ -11,6 +11,8 @@
   <a href="https://pypi.org/project/textura/">
     <img src="https://img.shields.io/badge/PyPI-1.1.0-blue.svg" alt="PyPI version">
   </a>
+ <img src="https://static.pepy.tech/badge/textura/month" alt="Monthly Downloads">
+ <img src="https://static.pepy.tech/badge/textura" alt="Total Downloads">
  <img src="https://img.shields.io/badge/last%20update-15%20April%202025-yellow" alt="Last Update">
   <a href="https://github.com/imAnesYT/Textura/blob/main/LICENSE"><img src="https://img.shields.io/github/license/imAnesYT/Textura" alt="License"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.6%2B-blue.svg" alt="Python"></a>
